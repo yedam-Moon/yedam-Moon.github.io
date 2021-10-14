@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "문예담"
-  avatar           : "/assets/images/readme.md" # path of avatar image, e.g. 
+  avatar           : "/assets/images/myavartar.png" # path of avatar image, e.g. 
   bio              : "사회에 호기심많은 평범한 고등학생"
   location         : "대한민국, 서울"
   email            : yedam1214@naver.com
